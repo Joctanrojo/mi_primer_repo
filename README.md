@@ -8,3 +8,5 @@ un commit mas desde github-
 una nueva actaulizacion
 
 cambios desde mi rama local llamada developer01
+
+cambios desde dev editor desde github
